@@ -1,4 +1,3 @@
 (sym_lib_table
   (lib (name UniBoard)(type Legacy)(uri ${KIPRJMOD}/UniBoard/UniBoard.lib)(options "")(descr ""))
-  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri "${KIPRJMOD}/Assets/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
 )
