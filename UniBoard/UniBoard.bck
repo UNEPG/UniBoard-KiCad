@@ -25,4 +25,10 @@ D OX40 Raspberry Pi HAT Connector
 K RPI HAT
 $ENDCMP
 #
+$CMP UniSat_BUS_40
+D UniSat Nano-satellite 40 pin Bus 
+K UniSat, STEM, Cubesat, Nano-satellite
+F https://docs.google.com/spreadsheets/d/1PAcDkhzehB7XnIJytJIB0ZRkse9mW8csUumpt_BZlxQ/edit?usp=sharing
+$ENDCMP
+#
 #End Doc Library
